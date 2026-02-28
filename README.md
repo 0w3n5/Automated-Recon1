@@ -9,6 +9,11 @@ The scope of the automated recon includes:
 
 I may expand this scope in a later version.
 
+### Prerequisites
+python3 -m venv venv
+source venv/bin/activate
+pip install requests dnspython python-nmap rich typer
+
 ### Project Structure
 auto-recon/
 │
