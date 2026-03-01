@@ -1,5 +1,5 @@
 # Automated-Recon1
-Automated reconnaissance for pen testing. Only for use on targets you have authority to test.
+### This tool is intended only for authorised security testing and educational use. Users must obtain explicit permission before scanning any systems
 
 The scope of the automated recon includes:
   - Subdomain enumeration (API-based)
